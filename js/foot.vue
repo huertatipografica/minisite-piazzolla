@@ -7,9 +7,9 @@
           <p>
             Designed with love by Juan Pablo del Peral for
             <nobr>
-              <a href="https://huertatipografica.com/"
+              <a href="https://www.htfonts.com/"
                  target="_blank">
-                 Huerta Tipográfica
+                 HT Fonts
               </a>
             </nobr> with the valuable help of Panagiotis Haratzopoulos, Krassen Krestev, the Google Fonts team and <a target="_blank"
                href="https://github.com/huertatipografica/piazzolla/blob/master/CONTRIBUTORS.txt">more people</a>.
@@ -28,7 +28,7 @@
           <ul>
 
             <li>
-              <a href="https://huertatipografica.com/en/fonts/piazzolla"
+              <a href="https://htfonts.com/fonts/piazzolla"
                  target="_blank">
                 Download
               </a>
@@ -49,9 +49,16 @@
             </li>
 
             <li>
-              <a href="https://huertatipografica.com/"
+              <a href="https://www.htfonts.com/"
                  target="_blank">
-                Huerta Tipográfica
+                HT Fonts
+              </a>
+            </li>
+
+            <li>
+              <a href="https://htfonts.com/contact"
+                 target="_blank">
+                Contact us
               </a>
             </li>
 

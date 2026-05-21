@@ -21,7 +21,7 @@
           <p class="inspectable">
             <span class="sc">for</span>
             <span class="value">
-              Huerta Tipográfica
+              HT Fonts
             </span>
           </p>
           <p class="inspectable">
@@ -37,7 +37,7 @@
             </span>
           </p>
 
-          <a href="https://huertatipografica.com/en/fonts/piazzolla"
+          <a href="https://htfonts.com/fonts/piazzolla"
              target="_blank">
             Get the font →
           </a>
